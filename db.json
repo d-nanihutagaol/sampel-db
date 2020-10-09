@@ -1,9 +1,5 @@
 {
-  "chatListOngoing" : 
-    {
-      "status": true,
-      "code": 200,
-      "chatListOngoing": [
+  "chatListOngoing": [
       {
         "id": "8739d8dc-47b8-4faa-929c-f63b3dc1609a",
         "patientId": "1",
@@ -221,5 +217,4 @@
         }
       }
     ]
-  }
 }
