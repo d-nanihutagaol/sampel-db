@@ -1,7 +1,7 @@
 {
-  "chatListOngoing": [
+  "ongoingListChat": [
       {
-        "id": "8739d8dc-47b8-4faa-929c-f63b3dc1609a",
+        "id": "1",
         "patientId": "1",
         "patientName": "Pasient tes1",
         "lastMessage": {
@@ -13,7 +13,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-40ee-99b0-7b587aa894e3",
+        "id": "2",
         "patientId": "2",
         "patientName": "Pasient tes2",
         "lastMessage": {
@@ -25,7 +25,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4faa-929c-f63b3dc1609b",
+        "id": "3",
         "patientId": "3",
         "patientName": "Pasient tes3",
         "lastMessage": {
@@ -37,7 +37,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-40ee-99b0-7b587aa894e4",
+        "id": "4",
         "patientId": "4",
         "patientName": "Pasient tes4",
         "lastMessage": {
@@ -49,7 +49,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4faa-929c-f63b3dc1609c",
+        "id": "5",
         "patientId": "5",
         "patientName": "Pasient tes5",
         "lastMessage": {
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-40ee-99b0-7b587aa894e5",
+        "id": "6",
         "patientId": "6",
         "patientName": "Pasient tes6",
         "lastMessage": {
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4faa-929c-f63b3dc1609d",
+        "id": "7",
         "patientId": "7",
         "patientName": "Pasient tes7",
         "lastMessage": {
@@ -85,7 +85,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4012-99b0-7b587aa894e6",
+        "id": "8",
         "patientId": "8",
         "patientName": "Pasient tes8",
         "lastMessage": {
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4013-99b0-7b587aa894e6",
+        "id": "9",
         "patientId": "9",
         "patientName": "Pasient tes9",
         "lastMessage": {
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4014-99b0-7b587aa894e6",
+        "id": "10",
         "patientId": "10",
         "patientName": "Pasient tes10",
         "lastMessage": {
@@ -121,7 +121,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4f15-929c-f63b3dc1609a",
+        "id": "11",
         "patientId": "11",
         "patientName": "Pasient tes11",
         "lastMessage": {
@@ -133,7 +133,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4016-99b0-7b587aa894e3",
+        "id": "12",
         "patientId": "12",
         "patientName": "Pasient tes12",
         "lastMessage": {
@@ -145,7 +145,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4f17-929c-f63b3dc1609b",
+        "id": "13",
         "patientId": "13",
         "patientName": "Pasient tes13",
         "lastMessage": {
@@ -157,7 +157,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4018-99b0-7b587aa894e4",
+        "id": "14",
         "patientId": "14",
         "patientName": "Pasient tes14",
         "lastMessage": {
@@ -169,7 +169,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4f19-929c-f63b3dc1609c",
+        "id": "15",
         "patientId": "15",
         "patientName": "Pasient tes15",
         "lastMessage": {
@@ -181,7 +181,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4020-99b0-7b587aa894e5",
+        "id": "16",
         "patientId": "16",
         "patientName": "Pasient tes16",
         "lastMessage": {
@@ -193,7 +193,7 @@
         }
       },
       {
-        "id": "8739d8dc-47b8-4f21-929c-f63b3dc1609d",
+        "id": "17",
         "patientId": "17",
         "patientName": "Pasient tes17",
         "lastMessage": {
@@ -205,7 +205,7 @@
         }
       },
       {
-        "id": "b74ab32f-6273-4022-99b0-7b587aa894e6",
+        "id": "18",
         "patientId": "18",
         "patientName": "Pasient tes18",
         "lastMessage": {
