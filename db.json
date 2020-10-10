@@ -180,42 +180,6 @@
           "isNew": true
         }
       },
-      {
-        "id": "16",
-        "patientId": "16",
-        "patientName": "Pasient tes16",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Dok",
-          "datetime": "20201003181959",
-          "isNew": false
-        }
-      },
-      {
-        "id": "17",
-        "patientId": "17",
-        "patientName": "Pasient tes17",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Hello",
-          "datetime": "20201003184535",
-          "isNew": true
-        }
-      },
-      {
-        "id": "18",
-        "patientId": "18",
-        "patientName": "Pasient tes18",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Hello",
-          "datetime": "20201003181959",
-          "isNew": false
-        }
-      }
     ],
   "historyListChat": [
       {
@@ -391,13 +355,13 @@
     {
       "from": "D",
       "type": 1,
-      "message": "uis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "message": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
       "datetime": "20201003181959"
     },
     {
       "from": "D",
       "type": 1,
-      "message": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "message": "Duis aute irure dolor in reprehenderit in voluptate",
       "datetime": "20201003181959"
     },
     {
@@ -409,7 +373,7 @@
     {
       "from": "P",
       "type": 1,
-      "message": "sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "message": "sunt in culpa qui",
       "datetime": "20201003181959"
     },
     {
@@ -439,19 +403,19 @@
     {
       "from": "P",
       "type": 1,
-      "message": "eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+      "message": "eaque ipsa quae ab illo inventore",
       "datetime": "20201003181959"
     },
     {
       "from": "P",
       "type": 1,
-      "message": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+      "message": "Nemo enim ipsam",
       "datetime": "20201003181959"
     },
     {
       "from": "D",
       "type": 1,
-      "message": "sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt",
+      "message": "sed quia consequuntur magni dolores",
       "datetime": "20201003181959"
     },
     {
