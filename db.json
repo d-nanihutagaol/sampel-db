@@ -355,7 +355,7 @@
     {
       "from": "D",
       "type": 1,
-      "message": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "message": "quis nostrud exercitation",
       "datetime": "20201003181959"
     },
     {
@@ -416,12 +416,6 @@
       "from": "D",
       "type": 1,
       "message": "sed quia consequuntur magni dolores",
-      "datetime": "20201003181959"
-    },
-    {
-      "from": "P",
-      "type": 1,
-      "message": "Neque porro quisquam est",
       "datetime": "20201003181959"
     }
   ]
