@@ -362,5 +362,103 @@
           "isNew": false
         }
       }
-    ]
+    ],
+  "detailChat": [
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Lorem ipsum dolor sit amet",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "consectetur adipiscing elit",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Ut enim ad minim veniam",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "uis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Excepteur sint occaecat cupidatat non proident",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Sed ut perspiciatis unde omnis",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "iste natus error sit voluptatem accusantium",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "doloremque laudantium",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "totam rem aperiam",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt",
+      "datetime": "20201003181959"
+    },
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Neque porro quisquam est",
+      "datetime": "20201003181959"
+    }
+  ]
 }
