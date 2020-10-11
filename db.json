@@ -143,42 +143,6 @@
           "datetime": "20201003181959",
           "isNew": false
         }
-      },
-      {
-        "id": "13",
-        "patientId": "13",
-        "patientName": "Pasient tes13",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "dok?",
-          "datetime": "20201003184535",
-          "isNew": true
-        }
-      },
-      {
-        "id": "14",
-        "patientId": "14",
-        "patientName": "Pasient tes14",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Saya mau konsultasi dok",
-          "datetime": "20201003181959",
-          "isNew": false
-        }
-      },
-      {
-        "id": "15",
-        "patientId": "15",
-        "patientName": "Pasient tes15",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Harus ambil tes?",
-          "datetime": "20201003184535",
-          "isNew": true
-        }
       }
     ],
   "historyListChat": [
@@ -443,7 +407,7 @@
     {
       "from": "D",
       "type": 1,
-      "message": "Duis aute irure dolor in reprehenderit in voluptate",
+      "message": "Duis aute irure dolor in",
       "datetime": "20201003182255"
     },
   ]
