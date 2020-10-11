@@ -418,5 +418,33 @@
       "message": "sed quia consequuntur magni dolores",
       "datetime": "20201004080720"
     }
+  ],
+  "detailChat2": [
+    {
+      "from": "P",
+      "type": 1,
+      "message": "eaque ipsa quae ab illo inventore",
+      "datetime": "20201004080520"
+    },
+  ],
+  "detailChat3": [
+    {
+      "from": "P",
+      "type": 1,
+      "message": "Ut enim ad minim veniam",
+      "datetime": "20201003182210"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "quis nostrud exercitation",
+      "datetime": "20201003182250"
+    },
+    {
+      "from": "D",
+      "type": 1,
+      "message": "Duis aute irure dolor in reprehenderit in voluptate",
+      "datetime": "20201003182255"
+    },
   ]
 }
