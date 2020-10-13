@@ -1,7 +1,7 @@
 {
   "ongoingListChat": [
       {
-        "id": "1",
+        "id": "b74ab32f-6273-40ee-99b0-7b587aa894e3",
         "patientId": "1",
         "patientName": "Pasient tes1",
         "lastMessage": {
@@ -277,18 +277,6 @@
           "datetime": "20201003184535",
           "isNew": true
         }
-      },
-      {
-        "id": "12",
-        "patientId": "12",
-        "patientName": "Pasient tes12",
-        "lastMessage": {
-          "from": "P",
-          "type": 1,
-          "message": "Dok",
-          "datetime": "20201003181959",
-          "isNew": false
-        }
       }
     ],
   "detailChat": [
@@ -389,56 +377,6 @@
       "type": 1,
       "message": "eaque ipsa quae ab illo inventore",
       "datetime": "20201004080520"
-    }
-  ],
-  "detailChat3": [
-    {
-      "from": "P",
-      "type": 1,
-      "message": "sunt in culpa",
-      "datetime": "20201004080025"
-    },
-    {
-      "from": "P",
-      "type": 1,
-      "message": "Sed",
-      "datetime": "20201004080032"
-    },
-    {
-      "from": "D",
-      "type": 1,
-      "message": "iste natus",
-      "datetime": "20201004080320"
-    },
-    {
-      "from": "D",
-      "type": 1,
-      "message": "doloremque",
-      "datetime": "20201004080340"
-    },
-    {
-      "from": "D",
-      "type": 1,
-      "message": "totam rem aperiam",
-      "datetime": "20201004080343"
-    },
-    {
-      "from": "P",
-      "type": 1,
-      "message": "eaque",
-      "datetime": "20201004080520"
-    },
-    {
-      "from": "P",
-      "type": 1,
-      "message": "Nemo enim ipsam",
-      "datetime": "20201004080550"
-    },
-    {
-      "from": "D",
-      "type": 1,
-      "message": "sed quia",
-      "datetime": "20201004080720"
     }
   ]
 }
