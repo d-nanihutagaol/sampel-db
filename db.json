@@ -3,7 +3,7 @@
       {
         "id": "b74ab32f-6273-40ee-99b0-7b587aa894e3",
         "patientId": "1",
-        "patientName": "Pasient tes1",
+        "patientName": "Heather Hughes",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -15,7 +15,7 @@
       {
         "id": "2",
         "patientId": "2",
-        "patientName": "Pasient tes2",
+        "patientName": "Taylor Stewart",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -27,7 +27,7 @@
       {
         "id": "3",
         "patientId": "3",
-        "patientName": "Pasient tes3",
+        "patientName": "Mia Warren",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -39,7 +39,7 @@
       {
         "id": "4",
         "patientId": "4",
-        "patientName": "Pasient tes4",
+        "patientName": "Katherine Berry",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -51,7 +51,7 @@
       {
         "id": "5",
         "patientId": "5",
-        "patientName": "Pasient tes5",
+        "patientName": "Craig Wells",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -63,7 +63,7 @@
       {
         "id": "6",
         "patientId": "6",
-        "patientName": "Pasient tes6",
+        "patientName": "Lydia Graham",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -75,7 +75,7 @@
       {
         "id": "7",
         "patientId": "7",
-        "patientName": "Pasient tes7",
+        "patientName": "Morgan James",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -87,7 +87,7 @@
       {
         "id": "8",
         "patientId": "8",
-        "patientName": "Pasient tes8",
+        "patientName": "Adam Blaese",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -99,7 +99,7 @@
       {
         "id": "9",
         "patientId": "9",
-        "patientName": "Pasient tes9",
+        "patientName": "Jade Brown",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -111,7 +111,7 @@
       {
         "id": "10",
         "patientId": "10",
-        "patientName": "Pasient tes10",
+        "patientName": "Gabrielle Thomas",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -123,7 +123,7 @@
       {
         "id": "11",
         "patientId": "11",
-        "patientName": "Pasient tes11",
+        "patientName": "Jackson Garcia",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -135,7 +135,7 @@
       {
         "id": "12",
         "patientId": "12",
-        "patientName": "Pasient tes12",
+        "patientName": "Nancy Wagner",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -149,7 +149,7 @@
       {
         "id": "1",
         "patientId": "1",
-        "patientName": "Pasient tes1",
+        "patientName": "April Moore",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -161,7 +161,7 @@
       {
         "id": "2",
         "patientId": "2",
-        "patientName": "Pasient tes2",
+        "patientName": "Jade Armstrong",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -173,7 +173,7 @@
       {
         "id": "3",
         "patientId": "3",
-        "patientName": "Pasient tes3",
+        "patientName": "Roosevelt O'Neill",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -185,7 +185,7 @@
       {
         "id": "4",
         "patientId": "4",
-        "patientName": "Pasient tes4",
+        "patientName": "Zac Hawkins",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -209,7 +209,7 @@
       {
         "id": "6",
         "patientId": "6",
-        "patientName": "Pasient tes6",
+        "patientName": "Ben Hayes",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -221,7 +221,7 @@
       {
         "id": "7",
         "patientId": "7",
-        "patientName": "Pasient tes7",
+        "patientName": "Sadie Allen",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -233,7 +233,7 @@
       {
         "id": "8",
         "patientId": "8",
-        "patientName": "Pasient tes8",
+        "patientName": "Tommy Miller",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -245,7 +245,7 @@
       {
         "id": "9",
         "patientId": "9",
-        "patientName": "Pasient tes9",
+        "patientName": "Fred Ford",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -257,7 +257,7 @@
       {
         "id": "10",
         "patientId": "10",
-        "patientName": "Pasient tes10",
+        "patientName": "James Long",
         "lastMessage": {
           "from": "P",
           "type": 1,
@@ -269,7 +269,7 @@
       {
         "id": "11",
         "patientId": "11",
-        "patientName": "Pasient tes11",
+        "patientName": "Alexandra Ramos",
         "lastMessage": {
           "from": "P",
           "type": 1,
